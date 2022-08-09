@@ -1,0 +1,284 @@
+.logo{
+    size: 100px;
+}
+
+.sfc1{
+    color:rgb(20, 20, 121);
+    padding:10px;
+    font-size:larger;
+    font-family: sans-serif;
+    border: 50px;
+    margin-left: 250px;
+    margin-top: -35px;
+    position:relative;
+    
+}
+
+.sfc2{
+    color:rgb(20, 20, 121);
+    padding:10px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 450px;
+    margin-top: -55px;
+    position:relative;
+}
+
+.sfc3{
+    color:rgb(20, 20, 121);
+    padding:10px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 660px;
+    margin-top: -55px;
+    position:relative;
+
+}
+
+.sfc4{
+    color:rgb(20, 20, 121);
+    padding:10px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 820px;
+    margin-top: -55px;
+    position:relative;
+
+}
+
+.sfc5{
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 1100px;
+    margin-top: -55px;
+    background-color: rgb(180, 6, 6);
+    padding:10px;
+    width:120px;
+    border-style: none;
+    position: absolute;
+    
+}
+
+.sfc5:hover{
+    background-color: royalblue;
+}
+
+.word{
+    color:rgb(20, 20, 121);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blue{
+    padding:30px;
+    background-color: rgb(31, 16, 87);
+    color:white;
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+.pix{
+    height: min-content;
+}
+
+.line{
+    color:rgb(20, 20, 121);
+}
+
+.button1{
+    background-color:white;
+    font-size: large;
+    font-family: sans-serif;
+    color:royalblue;
+    padding:10px;
+    border-radius: 30px;
+    width:250px;
+    border-style: none;
+    text-decoration: none;
+}
+
+.button1:hover{
+    background-color: brown;
+    color:white;
+    
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
+
+.button{
+    background-color: rgb(180, 6, 6);
+    font-size: large;
+    font-family: sans-serif;
+    color:white;
+    padding:10px;
+    position: center;
+    border-radius: 30px;
+    margin-left:550px;
+    width:250px;
+    border-style: none;
+    
+
+}
+.button:hover{
+    color: black;
+}
+.notice{
+    padding:10px;
+    background-color:paleturquoise;
+
+}
+
+.a:hover{
+    color:black;
+}
+
+.a::after{
+    color:purple;
+}
+
+
+.wholepd{
+    padding:50px;
+    background-color: rgb(219, 216, 216);
+}
+
+.rs{
+    padding-top: 10px;
+    background-color: goldenrod;
+}
+
+.pad1{
+    
+    background-color: white;
+    width:385px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.bb{
+    color:rgb(20, 20, 121);
+    font-family: Helvetica;
+}
+
+.pad2{
+    
+    background-color: white;
+    width:385px;
+    text-align: left;
+    margin-left: 500px;
+    margin-top:-360px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.uk{
+    padding-top: 10px;
+    background-color: goldenrod;
+}
+
+.home{
+    font-family: 'Franklin Gothic Medium';
+    font-style: italic;
+    color:rgb(20, 20, 121);
+    text-align: center;
+}
+
+.nw{
+    width: 500px;
+}
+
+.mn{
+    width: 550px;
+    color:red;
+    margin-top: -180px;
+}
+
+.new{
+    font-family: cursive;
+    color: gold;
+    text-align: center;
+}
+
+.lst{
+    width:200px;
+    margin-left: 650px;
+    position:relative;
+    top:-520px;
+
+}
+
+.one{
+    margin-top: -695px;
+    width:400px;
+    margin-left: 900px;
+}
+
+.sec{
+    width:200px;
+    margin-left: 650px;
+    position:relative;
+}
+
+.two{
+    margin-top: -150px;
+    width:400px;
+    margin-left: 900px;
+}
+
+
+.vertical {
+    border-left: 1px solid rgb(172, 171, 171);
+    height: 530px;
+    position:relative;
+    left: 45%;
+    margin-top: -340px;
+}
+
+.new1{
+    font-family: cursive;
+    color: gold;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.txt{
+    color:rgb(20, 20, 121);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:250px;
+    padding-right:250px;
+    text-align: center;
+}
+
+.footer{
+    padding: 100px;
+    background-color:rgb(31, 16, 87) ;
+    
+}
+
+.ftxt{
+    color: white;
+    font-family: helvetica;
+    margin-left: 300px;
+}
+
+.ftimg{
+    position: absolute;
+    
+}
